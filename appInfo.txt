@@ -1,1 +1,0 @@
-[{"appName":"Hay Day","appPackage":"com.supercell.hayday","appVersion":"1.61.271"}]
